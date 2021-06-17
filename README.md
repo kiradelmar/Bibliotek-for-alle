@@ -2,6 +2,8 @@
 
 Data from a BA thesis project in Library and information science at OsloMet — Oslo Metropolitan University
 
+Try it out: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiradelmar/Bibliotek-for-alle/HEAD?urlpath=voila%2Frender%2FWidgets.ipynb)
+
 ## Description
 
 An in-depth paragraph about your project and overview of use.
