@@ -1,0 +1,8 @@
+ipywidgets
+matplotlib
+numpy
+scipy
+pandas
+wordcloud
+matplotlib_venn
+voila
