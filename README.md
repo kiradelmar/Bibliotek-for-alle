@@ -2,7 +2,9 @@
 
 Data from a BA thesis project in Library and information science at OsloMet — Oslo Metropolitan University. This repository is in progress and more will be added throughout the summer (2021). 
 
-Interactive data visualizations: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiradelmar/Bibliotek-for-alle/HEAD?urlpath=voila%2Frender%2FWidgets.ipynb)
+Interactive data visualizations (English):[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiradelmar/Bibliotek-for-alle/HEAD?urlpath=voila%2Frender%2FInteractiveVenn.ipynb)
+
+Interactive data visualizations (Norwegian): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiradelmar/Bibliotek-for-alle/HEAD?urlpath=voila%2Frender%2FWidgets.ipynb)
 
 ## Description
 
