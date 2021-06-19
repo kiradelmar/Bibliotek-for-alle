@@ -37,10 +37,14 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Kira Del Mar 
+[@kiradelmar](https://twitter.com/kiradelmar)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Project supervisor: Jamie Johnston
+[@jjwanderings](https://twitter.com/jjwanderings)
+
+Technical support: Min Ragan-Kelley
+[@minrk](https://twitter.com/minrk)
 
 ## Version History
 
@@ -52,7 +56,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is currently under full copyright, but will become CC-BY once the repository is completed. 
 
 ## Acknowledgments
 
