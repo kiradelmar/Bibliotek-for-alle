@@ -12,30 +12,21 @@ This repository contains data from a national survey about LGBTQIA+ people's att
 
 ## Getting Started
 
+Full survey data (with qualitative columns removed) is in the tsv files. Jupyter notebooks contain my groupings, plotting functions, and statistical analysis, as well as interactive elements when used together with Voilà. 
+
+Column and group names are in mixed Norwegian and English, because that is how my brain works these days. If you need any help understanding what's going on, please feel free to get in touch. I will be working toward standardizing names in English. 
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Dependencies are in requirements.txt
 
-### Installing
+### To execture
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+pip install jupyter lab to get started with notebooks
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If you need any assistance, feel free to contact me at kira.delmar@gmail.com
 
 ## Authors
 
@@ -45,21 +36,10 @@ Kira Del Mar
 Project supervisor: Jamie Johnston
 [@jjwanderings](https://twitter.com/jjwanderings)
 
-Technical support: Min Ragan-Kelley
+Consultant: Min Ragan-Kelley
 [@minrk](https://twitter.com/minrk)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
 This project is currently under full copyright, but will become CC-BY once the repository is completed. 
 
-## Acknowledgments
-
-Inspiration, code snippets, etc.
