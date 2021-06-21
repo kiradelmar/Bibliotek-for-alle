@@ -6,6 +6,8 @@ Interactive data visualizations (English):[![Binder](https://mybinder.org/badge_
 
 Interactive data visualizations (Norwegian): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiradelmar/Bibliotek-for-alle/HEAD?urlpath=voila%2Frender%2FWidgets.ipynb)
 
+Other notebooks in this repository can be opened and viewed using [nbviewer](https://nbviewer.jupyter.org) — just visit the site in a new tab & paste in the URL of the whole repository or the individual notebook you would like to open. 
+
 ## Description
 
 This repository contains data from a national survey about LGBTQIA+ people's attitudes toward and experiences with public libraries in Norway. Three parallel surveys with different target populations (LGBTQIA+ people, cisgender heterosexual people, and librarians) are included in the data. Qualitative responses have been removed from the dataframe in order to ensure respondents' anonymity. If you are a researcher interested in working with qualitative data from this project, please feel free to contact me (kira.delmar@gmail.com). 
@@ -23,8 +25,6 @@ Dependencies are in requirements.txt
 ### To execture
 
 pip install jupyter lab to get started with notebooks
-
-Notebooks in this repository can be opened and viewed using [nbviewer](https://nbviewer.jupyter.org) — just visit the site in a new tab & paste in the URL of the whole repository or the individual notebook you would like to open. 
 
 ## Help
 
