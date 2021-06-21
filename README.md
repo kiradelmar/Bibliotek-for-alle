@@ -24,6 +24,8 @@ Dependencies are in requirements.txt
 
 pip install jupyter lab to get started with notebooks
 
+Notebooks in this repository can be opened and viewed using [nbviewer](https://nbviewer.jupyter.org) — just visit the site in a new tab & paste in the URL of the whole repository or the individual notebook you would like to open. 
+
 ## Help
 
 If you need any assistance, feel free to contact me at kira.delmar@gmail.com
