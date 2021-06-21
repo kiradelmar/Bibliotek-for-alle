@@ -6,7 +6,7 @@ Interactive data visualizations (English):[![Binder](https://mybinder.org/badge_
 
 Interactive data visualizations (Norwegian): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiradelmar/Bibliotek-for-alle/HEAD?urlpath=voila%2Frender%2FWidgets.ipynb)
 
-Other notebooks in this repository can be opened and viewed using [nbviewer](https://nbviewer.jupyter.org) — just visit the site in a new tab & paste in the URL of the whole repository or the individual notebook you would like to open. 
+Open and view other notebooks in this repository using [nbviewer](https://nbviewer.jupyter.org/github/kiradelmar/Bibliotek-for-alle/tree/main/)
 
 ## Description
 
